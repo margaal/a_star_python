@@ -6,7 +6,7 @@ see https://en.wikipedia.org/wiki/A*_search_algorithm
 # Case study
   I apply A* search algorithm to determine a best first path from Arad to Bucharest based on this map.
   
-  ![Alt text](map_roumania.jpg?raw=true "Cities map")
+  ![Cities map](https://github.com/margaal/a_star_python/blob/master/map_roumania.JPG)
 
   Like heuristic's function for my A star's implementation, I choose "Straight-line heuristic"
   
