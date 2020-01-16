@@ -62,5 +62,5 @@ town_graph = {
 
 
 # call to a_star function
-astar = Astar.AStar(map_graph=town_graph, source_coord=arad.coord, target_coord=giurgiu.coord)
+astar = Astar.AStar(map_graph=town_graph, source_coord=arad.coord, target_coord=bucharest.coord)
 astar.a_star()
